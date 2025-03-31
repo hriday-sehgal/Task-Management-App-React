@@ -31,8 +31,8 @@ The project is deployed on Vercel. You can access it here:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hriday-sehgal/task-management-app-react.git
-cd task-management-app-react
+git clone https://github.com/hriday-sehgal/Task-Management-App-React.git
+cd Task-Management-App-React
 ```
 
 2. Install dependencies:
