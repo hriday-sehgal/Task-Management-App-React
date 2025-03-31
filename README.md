@@ -6,7 +6,7 @@ A modern and responsive task management application built with React and TypeScr
 
 The project is deployed on Vercel. You can access it here:
 
-[Task Management App](https://task-management-app-react.vercel.app/)
+[Task Management App](https://task-management-app-react-sigma.vercel.app/)
 
 ## Features
 
